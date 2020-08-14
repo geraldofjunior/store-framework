@@ -16,6 +16,10 @@
   },
 
   "flex-layout.col#left": {
+    "props": {
+      "preventVerticalStretch": true,
+      "verticalAlign": "CENTER"
+    },
     "children":[
       "product-images"
     ]
