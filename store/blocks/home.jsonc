@@ -2,7 +2,8 @@
   "store.home": {
     "blocks": [
       "responsive-layout.desktop#desktop",
-      "responsive-layout.mobile#mobile"
+      "responsive-layout.mobile#mobile",
+      "shelf"
     ]
   },
   "responsive-layout.desktop#desktop": {
@@ -14,7 +15,7 @@
   },
   
   "rich-text#desktop": {
-    "props": {
+    "props": { 
       "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
       "textPosition": "CENTER",
       "textAlignment": "CENTER"
