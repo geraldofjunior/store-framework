@@ -13,7 +13,7 @@
 
     // Major
     "menu-item#major-appliances": {
-        "children": [
+        "blocks": [
             "vtex.menu@2.x:submenu#major"
         ]
     },
@@ -35,7 +35,7 @@
     
     // Small
     "menu-item#small-appliances":{
-        "children": ["vtex.menu@2.x:submenu#small"]
+        "blocks": ["vtex.menu@2.x:submenu#small"]
     },
     "vtex.menu@2.x:submenu#small":{
         "children":[
@@ -55,7 +55,7 @@
     
     // Electronics
     "menu-item#electronics":{
-        "children": ["vtex.menu@2.x:submenu#electronics"]
+        "blocks": ["vtex.menu@2.x:submenu#electronics"]
     },    
     "vtex.menu@2.x:submenu#electronics": {
         "children":["vtex.menu@2.x:menu#electronics"]
