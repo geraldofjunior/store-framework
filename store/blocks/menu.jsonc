@@ -12,7 +12,7 @@
     },
 
     // Major
-    "menu-item#major-appliances":{
+    "menu-item#major-appliances": {
         "children": [
             "vtex.menu@2.x:submenu#major"
         ]
