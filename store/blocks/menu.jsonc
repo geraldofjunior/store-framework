@@ -13,6 +13,9 @@
 
     // Major
     "menu-item#major-appliances": {
+        "props":{
+            "id": "menu-item-major-appliances"
+        },
         "blocks": [
             "vtex.menu@2.x:submenu#major"
         ]
